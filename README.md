@@ -1,3 +1,7 @@
+# CF-dns-docker
+业务封装到docker中,实现api调度,配合自动化工具,可以随时更换CF-DNS配置
+
+
 # DdnsOnCloudFlare
 A shell script to automatic update cloudFlare dns record whit actual external ip address, leveraging the official CloudFlare api.
 
